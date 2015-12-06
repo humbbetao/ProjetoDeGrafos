@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1449429232 source:/home/hgoncalves/Documentos/algoritmoGrafo/fila.c
+	<stdio.h>
+	<stdlib.h>
+
+1449430613 source:/home/hgoncalves/Documentos/algoritmoGrafo/lista.c
+
+1449430524 source:/home/hgoncalves/Documentos/algoritmoGrafo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
